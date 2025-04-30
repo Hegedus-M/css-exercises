@@ -1,0 +1,19 @@
+.main {
+    background-color: lightcoral;
+    font-family:"Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.main.unique {
+    font-size: 24px;
+}
+
+#unique1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#unique2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
